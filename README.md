@@ -16,7 +16,7 @@ Preview:
 
 Features:
 
-- breadboard friendly
+- 2.54mm (0.1") raster breadboard friendly
 - small size
 - includes decoupling capacitor
 - includes power LED indicator
@@ -36,7 +36,7 @@ Preview:
 
 Features:
 
-- 0.1" raster board friendly
+- 2.54mm (0.1") raster board friendly
 - even smaller size
 - suitable for cable mount
 - shrink-tube friendly
