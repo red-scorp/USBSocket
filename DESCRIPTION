@@ -1,7 +1,7 @@
 <b>USBSocket_Type1_v1.0</b> is a simple microUSB adapter board, which mostly designed to be breadboard friendly.<br/>
 Features:
 <ul>
-<li>breadboard friendly</li>
+<li>2.54mm (0.1") raster breadboard friendly</li>
 <li>small size</li>
 <li>includes decoupling capacitor</li>
 <li>includes power LED indicator</li>
@@ -10,7 +10,7 @@ Features:
 <b>USBSocket_Type2_v1.0</b> is a simple microUSB adapter board mostly usable for smaller or cable applications.<br/>
 Features:
 <ul>
-<li>0.1" raster board friendly</li>
+<li>2.54mm (0.1") raster board friendly</li>
 <li>even smaller size</li>
 <li>suitable for cable mount</li>
 <li>shrink-tube friendly</li>
