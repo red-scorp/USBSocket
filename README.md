@@ -4,6 +4,11 @@ USB Socket board came into existence as alternative to cheap miniUSB adapters wh
 These cheap boards do not care about D+/D- traced being equally long which is essential for USB wiring.
 I had to design my own microUSB adapter board to fit my needs.
 
+Following types of boards are available:
+
+- **Type1** is breadboard friendly micro USB socket
+- **Type2** is cable mount friendly micro USB socket
+
 ## USBSocket_Type1_v1.0
 
 **USBSocket_Type1_v1.0** is a simple microUSB adapter board, which mostly designed to be breadboard friendly.
