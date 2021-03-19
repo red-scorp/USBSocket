@@ -21206,10 +21206,11 @@ part number 2062-2P from STA</description>
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,50.8,104.14,CN1,VBUS,5V,,,"/>
+<approved hash="104,1,78.74,104.14,CN1,VBUS,5V,,,"/>
 <approved hash="113,1,131.976,90.066,FRAME1,,,,,"/>
-<approved hash="113,1,219.117,97.6274,J1,,,,,"/>
-<approved hash="113,1,219.117,82.3874,J2,,,,,"/>
+<approved hash="113,1,186.097,103.977,J1,,,,,"/>
+<approved hash="113,1,186.097,78.5774,J3,,,,,"/>
+<approved hash="113,1,186.097,91.2774,J2,,,,,"/>
 </errors>
 </schematic>
 </drawing>

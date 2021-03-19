@@ -30619,8 +30619,8 @@ Also note, the SNAP packages are for using a snappable style connector. We sell 
 <errors>
 <approved hash="104,1,50.8,104.14,CN1,VBUS,5V,,,"/>
 <approved hash="113,1,131.976,90.066,FRAME1,,,,,"/>
-<approved hash="113,1,219.117,97.6274,J1,,,,,"/>
-<approved hash="113,1,219.117,82.3874,J2,,,,,"/>
+<approved hash="113,1,219.117,97.6579,J1,,,,,"/>
+<approved hash="113,1,219.117,82.4179,J2,,,,,"/>
 </errors>
 </schematic>
 </drawing>
