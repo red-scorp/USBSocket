@@ -31040,26 +31040,26 @@ We've spent an enormous amount of time creating and checking these footprints an
 </net>
 <net name="USB_D_M" class="1">
 <segment>
-<wire x1="73.66" y1="101.6" x2="50.8" y2="101.6" width="0.1524" layer="91"/>
-<label x="63.5" y="101.6" size="1.778" layer="95"/>
-<pinref part="X1" gate="G$1" pin="D+"/>
-</segment>
-<segment>
 <pinref part="J1" gate="G$1" pin="2"/>
 <wire x1="215.9" y1="101.6" x2="203.2" y2="101.6" width="0.1524" layer="91"/>
 <label x="200.66" y="101.6" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="USB_D_P" class="1">
 <segment>
+<pinref part="X1" gate="G$1" pin="D-"/>
 <wire x1="50.8" y1="99.06" x2="73.66" y2="99.06" width="0.1524" layer="91"/>
 <label x="63.5" y="99.06" size="1.778" layer="95"/>
-<pinref part="X1" gate="G$1" pin="D-"/>
 </segment>
+</net>
+<net name="USB_D_P" class="1">
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
 <wire x1="215.9" y1="99.06" x2="203.2" y2="99.06" width="0.1524" layer="91"/>
 <label x="200.66" y="99.06" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X1" gate="G$1" pin="D+"/>
+<wire x1="50.8" y1="101.6" x2="73.66" y2="101.6" width="0.1524" layer="91"/>
+<label x="63.5" y="101.6" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="USB_SHIELD" class="0">
