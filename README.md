@@ -130,6 +130,47 @@ Features:
 
 CAM files are available.
 
+## USBSocket_Type7_v1.0
+
+**USBSocket_Type7_v1.0** is a simple PCB-USB adapter board, which mostly designed to be breadboard friendly.
+This PCB board should be 2.0mm thick!
+
+Preview:
+
+![USBSocket_Type7_v1.0 preview](USBSocket_Type7_v1.0.png)
+
+[Schematics in PDF format](USBSocket_Type7_v1.0.pdf)
+
+Features:
+
+- 2.54mm (0.1") raster breadboard friendly
+- small size
+- includes decoupling capacitor
+- includes power LED indicator
+- 3mm mount holes
+
+CAM files are available.
+
+## USBSocket_Type8_v1.0
+
+**USBSocket_Type8_v1.0** is a simple PCB-USB adapter board mostly usable for smaller or cable applications.
+This PCB board should be 2.0mm thick!
+
+Preview:
+
+![USBSocket_Type8_v1.0 preview](USBSocket_Type8_v1.0.png)
+
+[Schematics in PDF format](USBSocket_Type8_v1.0.pdf)
+
+Features:
+
+- 2.54mm (0.1") raster board friendly
+- even smaller size
+- suitable for cable mount
+- shrink-tube friendly
+
+CAM files are available.
+
 ## BOM
 
 Bill Of Materials is currently available only for LCSC Electronic Components Distributor, which is probably cheapest anyway.
