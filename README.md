@@ -12,6 +12,8 @@ Following types of boards are available:
 - **Type4** is cable mount friendly **miniUSB** socket
 - **Type5** is breadboard friendly **USB** socket
 - **Type6** is cable mount friendly **USB** socket
+- **Type7** is breadboard friendly **PCB-USB** socket
+- **Type8** is cable mount friendly **PCB-USB** socket
 
 ## USBSocket_Type1_v1.0
 
