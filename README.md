@@ -135,7 +135,7 @@ CAM files are available.
 ## USBSocket_Type7_v1.0
 
 **USBSocket_Type7_v1.0** is a simple PCB-USB adapter board, which mostly designed to be breadboard friendly.
-This PCB board should be about 2.0mm thick!
+This PCB board should be about 1.6-2.0mm thick!
 
 Preview:
 
@@ -156,7 +156,7 @@ CAM files are available.
 ## USBSocket_Type8_v1.0
 
 **USBSocket_Type8_v1.0** is a simple PCB-USB adapter board mostly usable for smaller or cable applications.
-This PCB board should be about 2.0mm thick!
+This PCB board should be about 1.6-2.0mm thick!
 
 Preview:
 
