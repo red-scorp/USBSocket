@@ -21,9 +21,9 @@ Following types of boards are available:
 
 Preview:
 
-![USBSocket_Type1_v1.0 preview](USBSocket_Type1_v1.0.png)
+![USBSocket_Type1_v1.0 preview](img/USBSocket_Type1_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type1_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type1_v1.0.pdf)
 
 Features:
 
@@ -41,9 +41,9 @@ CAM files are available.
 
 Preview:
 
-![USBSocket_Type2_v1.0 preview](USBSocket_Type2_v1.0.png)
+![USBSocket_Type2_v1.0 preview](img/USBSocket_Type2_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type2_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type2_v1.0.pdf)
 
 Features:
 
@@ -60,9 +60,9 @@ CAM files are available.
 
 Preview:
 
-![USBSocket_Type3_v1.0 preview](USBSocket_Type3_v1.0.png)
+![USBSocket_Type3_v1.0 preview](img/USBSocket_Type3_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type3_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type3_v1.0.pdf)
 
 Features:
 
@@ -80,9 +80,9 @@ CAM files are available.
 
 Preview:
 
-![USBSocket_Type4_v1.0 preview](USBSocket_Type4_v1.0.png)
+![USBSocket_Type4_v1.0 preview](img/USBSocket_Type4_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type4_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type4_v1.0.pdf)
 
 Features:
 
@@ -99,9 +99,9 @@ CAM files are available.
 
 Preview:
 
-![USBSocket_Type5_v1.0 preview](USBSocket_Type5_v1.0.png)
+![USBSocket_Type5_v1.0 preview](img/USBSocket_Type5_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type5_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type5_v1.0.pdf)
 
 Features:
 
@@ -119,9 +119,9 @@ CAM files are available.
 
 Preview:
 
-![USBSocket_Type6_v1.0 preview](USBSocket_Type6_v1.0.png)
+![USBSocket_Type6_v1.0 preview](img/USBSocket_Type6_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type6_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type6_v1.0.pdf)
 
 Features:
 
@@ -139,9 +139,9 @@ This PCB board should be about 1.6-2.0mm thick!
 
 Preview:
 
-![USBSocket_Type7_v1.0 preview](USBSocket_Type7_v1.0.png)
+![USBSocket_Type7_v1.0 preview](img/USBSocket_Type7_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type7_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type7_v1.0.pdf)
 
 Features:
 
@@ -160,9 +160,9 @@ This PCB board should be about 1.6-2.0mm thick!
 
 Preview:
 
-![USBSocket_Type8_v1.0 preview](USBSocket_Type8_v1.0.png)
+![USBSocket_Type8_v1.0 preview](img/USBSocket_Type8_v1.0.png)
 
-[Schematics in PDF format](USBSocket_Type8_v1.0.pdf)
+[Schematics in PDF format](doc/USBSocket_Type8_v1.0.pdf)
 
 Features:
 
