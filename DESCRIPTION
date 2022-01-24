@@ -68,3 +68,12 @@ Features:
 <li>suitable for cable mount</li>
 <li>shrink-tube friendly</li>
 </ul>
+<b>USBSocket_Type9_v1.0</b> is a simple USB Type-C adapter board, which mostly designed to be breadboard friendly.<br/>
+Features:
+<ul>
+<li>2.54mm (0.1") raster breadboard friendly</li>
+<li>small size</li>
+<li>includes decoupling capacitor</li>
+<li>includes power LED indicator</li>
+<li>3mm mount holes</li>
+</ul>

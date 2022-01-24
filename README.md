@@ -14,6 +14,7 @@ Following types of boards are available:
 - **Type6** is cable mount friendly **USB** socket
 - **Type7** is breadboard friendly **PCB-USB** socket
 - **Type8** is cable mount friendly **PCB-USB** socket
+- **Type9** is breadboard friendly **USB Type-C** socket
 
 ## USBSocket_Type1_v1.0
 
@@ -173,21 +174,43 @@ Features:
 
 CAM files are available.
 
+## USBSocket_Type9_v1.0
+
+**USBSocket_Type9_v1.0** is a simple USB Type-C adapter board, which mostly designed to be breadboard friendly.
+
+Preview:
+
+![USBSocket_Type9_v1.0 preview](img/USBSocket_Type9_v1.0.png)
+
+[Schematics in PDF format](doc/USBSocket_Type9_v1.0.pdf)
+
+Features:
+
+- 2.54mm (0.1") raster breadboard friendly
+- small size
+- includes decoupling capacitor
+- includes power LED indicator
+- 3mm mount holes
+
+CAM files are available.
+
 ## BOM
 
 Bill Of Materials is currently available only for LCSC Electronic Components Distributor, which is probably cheapest anyway.
 
 ### LCSC BOM
 
-|Designator  |Part/Value      |Package/Footprint    |LCSC #  |
-|------------|----------------|---------------------|--------|
-|CN1         |MOLEX 473460001 |SMD                  |C132560 |
-|CN2         |MOLEX 675031230 |SMD                  |C136452 |
-|CN3         |MOLEX 670688000 |TH                   |C114097 |
-|C1\*        |Cap. 47uF       |0805                 |C109461 |
-|C2\*        |Cap. 100nF      |0402                 |C60474  |
-|LED1\*      |LED Green       |0603                 |C364559 |
-|R1\*        |Res. 1K         |0402                 |C384390 |
+|Designator  |Part/Value               |Package/Footprint    |LCSC #   |
+|------------|-------------------------|---------------------|---------|
+|CN1         |MOLEX 473460001          |SMD                  |C132560  |
+|CN2         |MOLEX 675031230          |SMD                  |C136452  |
+|CN3         |MOLEX 670688000          |TH                   |C114097  |
+|CN4         |Hanbo Electronic MC-107S |SMD                  |C2874570 |
+|C1\*        |Cap. 47uF                |0805                 |C109461  |
+|C2\*        |Cap. 100nF               |0402                 |C60474   |
+|LED1\*      |LED Green                |0603                 |C364559  |
+|R1\*        |Res. 1K                  |0402                 |C384390  |
+|R2\*        |Res. 56K                 |0402                 |C25796   |
 
 \*) These passive components are optional but it's recommended to install them.
 
@@ -195,5 +218,5 @@ Bill Of Materials is currently available only for LCSC Electronic Components Dis
 
 Your contributions as code, resources or finances are welcome!
 Please contact me directly over e-mail andriy.golovnya@gmail.com or over [GitHub profile](https://github.com/red-scorp).
-Link for [Paypal donations](http://paypal.me/redscorp), which are always welcome.
+Link for [Paypal donations](http://paypal.me/redscorp) and [Ko-Fi donations](http://ko-fi.com/redscorp), which are always welcome.
 Thanks in advance!
