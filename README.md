@@ -15,6 +15,7 @@ Following types of boards are available:
 - **Type7** is breadboard friendly **PCB-USB** socket
 - **Type8** is cable mount friendly **PCB-USB** socket
 - **Type9** is breadboard friendly **USB Type-C** socket
+- **Type10** is cable mount friendly **USB Type-C** socket
 
 ## USBSocket_Type1_v1.0
 
@@ -191,6 +192,25 @@ Features:
 - includes decoupling capacitor
 - includes power LED indicator
 - 3mm mount holes
+
+CAM files are available.
+
+## USBSocket_Type10_v1.0
+
+**USBSocket_Type10_v1.0** is a simple USB Type-C adapter board mostly usable for smaller or cable applications.
+
+Preview:
+
+![USBSocket_Type10_v1.0 preview](img/USBSocket_Type10_v1.0.png)
+
+[Schematics in PDF format](doc/USBSocket_Type10_v1.0.pdf)
+
+Features:
+
+- 2.54mm (0.1") raster board friendly
+- even smaller size
+- suitable for cable mount
+- shrink-tube friendly
 
 CAM files are available.
 

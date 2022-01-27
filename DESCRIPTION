@@ -15,7 +15,7 @@ Features:
 <li>suitable for cable mount</li>
 <li>shrink-tube friendly</li>
 </ul>
-<b>USBSocket_Type1_v3.0</b> is a simple miniUSB adapter board, which mostly designed to be breadboard friendly.<br/>
+<b>USBSocket_Type3_v1.0</b> is a simple miniUSB adapter board, which mostly designed to be breadboard friendly.<br/>
 Features:
 <ul>
 <li>2.54mm (0.1") raster breadboard friendly</li>
@@ -76,4 +76,12 @@ Features:
 <li>includes decoupling capacitor</li>
 <li>includes power LED indicator</li>
 <li>3mm mount holes</li>
+</ul>
+<b>USBSocket_Type10_v1.0</b> is a simple USB Type-C adapter board mostly usable for smaller or cable applications.<br/>
+Features:
+<ul>
+<li>2.54mm (0.1") raster board friendly</li>
+<li>even smaller size</li>
+<li>suitable for cable mount</li>
+<li>shrink-tube friendly</li>
 </ul>
